@@ -5,3 +5,5 @@ Completed : init playwright , created basic folder structure with proper plan an
 Day 1 overview: First wrote the basic login test with valid user creds and assert it. 
 then converted it to the POM. created the LoginPage.ts, crated 4 different methods. and use to write a valid login flow and invalid login flow. 
 method 1 is open , method 2 is asserting that the login page key elements are visible, method 3 is for input for the user details, method 4 is error message. 
+Next Day task is i explore the Dashboard page and funcs , nav bars and logout. also write a simple test case for this to check and play around the page. and then refactor. 
+
